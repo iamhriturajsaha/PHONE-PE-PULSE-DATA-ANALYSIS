@@ -93,3 +93,15 @@ Created and populated the following tables in SQLite:
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+## 🖼️ Streamlit
+
+Here are some snapshots of the interactive dashboard built using Streamlit -
+
+<p align="center">
+  <img src="Streamlit Images/1.png" alt="Streamlit Dashboard 1" width="700"/><br>
+  <img src="Streamlit Images/2.png" alt="Streamlit Dashboard 2" width="700"/><br>
+  <img src="Streamlit Images/3.png" alt="Streamlit Dashboard 3" width="700"/><br>
+  <img src="Streamlit Images/4.png" alt="Streamlit Dashboard 4" width="700"/><br>
+  <img src="Streamlit Images/5.png" alt="Streamlit Dashboard 5" width="700"/>
+</p>
