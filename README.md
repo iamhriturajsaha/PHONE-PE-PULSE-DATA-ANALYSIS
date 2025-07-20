@@ -52,7 +52,7 @@ Created and populated the following tables in SQLite -
 - (Planned) Insights into top states, districts, pin codes by metrics
 
 ### 3. 🧮 Data Analysis
-- Executed SQL queries to analyze transactions by:
+- Executed SQL queries to analyze transactions by -
   - Year, Quarter, State
   - Device brand, User engagement
 - Python used for -
