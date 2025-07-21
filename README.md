@@ -1,7 +1,7 @@
 # 📊 PhonePe Pulse Data Analysis
 ---
 
-An end-to-end data analytics project on PhonePe Pulse data, leveraging SQL, Python and Streamlit for interactive insights into digital payment trends across India.
+> An end-to-end data analytics project on PhonePe Pulse data, leveraging SQL, Python and Streamlit for interactive insights into digital payment trends across India.
 ---
 
 ## 🧠 Overview
