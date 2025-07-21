@@ -1,11 +1,9 @@
 # 📊 PhonePe Pulse Data Analysis
 
-> An end-to-end data analytics project on PhonePe Pulse data, leveraging SQL, Python and Streamlit for interactive insights into digital payment trends across India.
----
+## 🧠 Project Overview
 
-## 🧠 Overview
+An end-to-end data analytics project on PhonePe Pulse data, leveraging SQL, Python and Streamlit for interactive insights into digital payment trends across India. This project aims to extract, analyze, and visualize PhonePe Pulse data to uncover transaction patterns, user engagement and regional trends in digital payments. The insights are displayed through an interactive dashboard built with Streamlit and hosted via ngrok on Google Colab.
 
-> This project aims to extract, analyze, and visualize PhonePe Pulse data to uncover transaction patterns, user engagement and regional trends in digital payments. The insights are displayed through an interactive dashboard built with Streamlit and hosted via ngrok on Google Colab.
 ---
 
 ## 🚀 Skills Highlighted
@@ -17,6 +15,7 @@
 - Streamlit Dashboard Development  
 - Business Insight Generation  
 - ETL (Extract, Transform, Load)
+  
 ---
 
 ## 📌 Problem Statement
@@ -26,6 +25,7 @@ With the rise of digital payment platforms like PhonePe, it's crucial to:
 - Track user growth and engagement.
 - Monitor state/district-wise transaction volumes.
 - Identify trends and generate actionable business insights.
+  
 ---
 
 ## 🧩 Project Structure
@@ -59,6 +59,7 @@ Created and populated the following tables in SQLite -
 ### 4. 📊 Dashboard with Streamlit
 - Built an interactive web dashboard in Streamlit
 - Hosted directly from Google Colab via `pyngrok`
+  
 ---
 
 ## 📈 Insights & Findings
@@ -67,6 +68,7 @@ Created and populated the following tables in SQLite -
 - Observed **seasonal and quarterly growth** patterns
 - Analyzed **device brand preferences** across regions
 - Measured **user growth vs app engagement** over time
+  
 ---
 
 ## 🧪 Evaluation Metrics
@@ -78,6 +80,7 @@ Created and populated the following tables in SQLite -
 | 📊 Visualization Clarity | Meaningful and intuitive plots |
 | 🧠 Insight Validity    | Actionable, business-relevant findings |
 | 📚 Documentation      | Thorough and well-structured |
+
 ---
 
 ## 🔧 Tools & Technologies
