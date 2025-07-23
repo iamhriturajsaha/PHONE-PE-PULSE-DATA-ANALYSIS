@@ -2,7 +2,7 @@
 
 ## 🧠 Project Overview
 
-An end-to-end data analytics project on PhonePe Pulse data, leveraging SQL, Python and Streamlit for interactive insights into digital payment trends across India. This project aims to extract, analyze, and visualize PhonePe Pulse data to uncover transaction patterns, user engagement and regional trends in digital payments. The insights are displayed through an interactive dashboard built with Streamlit and hosted via ngrok on Google Colab.
+An end-to-end data analytics project on PhonePe Pulse data, leveraging SQL, Python and Streamlit for interactive insights into digital payment trends across India. This project aims to extract, analyze and visualize PhonePe Pulse data to uncover transaction patterns, user engagement and regional trends in digital payments. The insights are displayed through an interactive dashboard built with Streamlit and hosted via ngrok on Google Colab.
 
 ---
 
