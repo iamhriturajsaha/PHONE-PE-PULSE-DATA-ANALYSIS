@@ -91,6 +91,8 @@ Created and populated the following tables in SQLite -
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+---
+
 ## 🖼️ Streamlit
 
 Here are some snapshots of the interactive dashboard built using Streamlit -
