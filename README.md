@@ -93,7 +93,7 @@ Created and populated the following tables in SQLite -
 
 ---
 
-## 🖼️ Streamlit
+## 🖼️ Streamlit Quick Glance
 
 Here are some snapshots of the interactive dashboard built using Streamlit -
 
