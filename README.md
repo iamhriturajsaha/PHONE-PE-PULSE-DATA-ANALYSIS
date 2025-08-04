@@ -98,9 +98,9 @@ Created and populated the following tables in SQLite -
 Here are some snapshots of the interactive dashboard built using Streamlit -
 
 <p align="center">
-  <img src="Streamlit Images/1.png" alt="Streamlit Dashboard 1" width="700"/><br>
-  <img src="Streamlit Images/2.png" alt="Streamlit Dashboard 2" width="700"/><br>
-  <img src="Streamlit Images/3.png" alt="Streamlit Dashboard 3" width="700"/><br>
-  <img src="Streamlit Images/4.png" alt="Streamlit Dashboard 4" width="700"/><br>
-  <img src="Streamlit Images/5.png" alt="Streamlit Dashboard 5" width="700"/>
+  <img src="Streamlit Images/1.png" alt="Streamlit Dashboard 1" width="1000"/><br>
+  <img src="Streamlit Images/2.png" alt="Streamlit Dashboard 2" width="1000"/><br>
+  <img src="Streamlit Images/3.png" alt="Streamlit Dashboard 3" width="1000"/><br>
+  <img src="Streamlit Images/4.png" alt="Streamlit Dashboard 4" width="1000"/><br>
+  <img src="Streamlit Images/5.png" alt="Streamlit Dashboard 5" width="1000"/>
 </p>
